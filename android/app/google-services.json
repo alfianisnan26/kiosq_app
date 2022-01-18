@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449525017715",
+    "firebase_url": "https://kios-q-default-rtdb.firebaseio.com",
+    "project_id": "kios-q",
+    "storage_bucket": "kios-q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449525017715:android:0b8e307b9b2c48723ece06",
+        "android_client_info": {
+          "package_name": "app.web.kiosq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449525017715-0redgki8tjvm0j6pbjtea2kbp70enr5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.web.kiosq",
+            "certificate_hash": "5687303c28e0e6e7a5e2df030160bcbcb014aa1d"
+          }
+        },
+        {
+          "client_id": "449525017715-drb1thssnu7u2q5bfno44m1q1igbfmc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZY_QCBdwUyV1z8jxQfHtmeou_ktrUyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449525017715-drb1thssnu7u2q5bfno44m1q1igbfmc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

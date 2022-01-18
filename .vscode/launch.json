@@ -1,0 +1,33 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Android Emulator",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "emulator-5554"
+        },
+        {
+            "name": "Redmi 7",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "4a76a48b"
+        },
+        {
+            "name": "Flutter Web",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--web-port", "80"]
+        },
+        
+    ],
+    "compounds": [
+        {
+          "name": "All Devices",
+          "configurations": ["Android Emulator", "Redmi 7"]
+        }
+      ]
+}
